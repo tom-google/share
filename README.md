@@ -9,7 +9,7 @@ These files are maintained separately from the primary codebase to support speci
 
 ## Repository Structure
 - **`/patches`**: Contains patch files intended for application to upstream dependencies.
-- ~~**`/archives`**: Houses snapshots or backups of components that are not currently part of the official repository.~~ *(Coming soon)*
+- ~~**`/archives`**: These files are provided as reference configurations. They represent a verified, 'known good' state of the build environment.~~ *(Coming soon)*
 
 ## Usage
 This is a utility repository intended to assist with specific integration workflows.
